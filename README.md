@@ -27,10 +27,4 @@
 
 ## 安装（本地）
 
-在 flyMD → 插件 → 从本地安装，选择本目录：
-
-`D:\ZhiXu-main\additional-suffix-plugin`
-
-并确保同时安装并启用：
-
-`D:\ZhiXu-main\zhixu-draw-plugin`
+在 flyMD → 插件 → 从本地安装，选择插件目录
