@@ -1,0 +1,18 @@
+{
+  "id": "additional-suffix-plugin",
+  "name": "Additional Suffix Plugin (ASP)",
+  "version": "0.1.2",
+  "author": "ZhiXu",
+  "description": "为 flyMD 提供可扩展文件后缀机制：通过插件声明额外后缀的文件树展示与打开策略（如 .zhixu → zhixu-draw）。",
+  "main": "main.js",
+  "i18n": {
+    "zh": {
+      "name": "后缀扩展（ASP）",
+      "description": "通过插件声明额外后缀的展示与打开策略（如 .zhixu）。"
+    },
+    "en": {
+      "name": "Additional Suffix Plugin (ASP)",
+      "description": "Declare extra file suffixes and their open/display strategy for flyMD."
+    }
+  }
+}
